@@ -7,8 +7,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
   <link href="images/favicon.ico" rel="icon" type="image/x-icon" />
   <link rel="canonical"  href="http://ungwebb.com"/>
-  <meta name="description" content="Ung webb är en ideell förening med syfte att stödja ungdomar i deras inlärning av webbutveckling samt apputveckling!">
-  <meta name="keywords" content="ung,webb,sverige,vi unga,webbutveckling,förening,vi unga">
+  <meta name="description" content="Ung webb ï¿½r en ideell fï¿½rening med syfte att stï¿½dja ungdomar i deras inlï¿½rning av webbutveckling samt apputveckling!">
+  <meta name="keywords" content="ung,webb,sverige,vi unga,webbutveckling,fï¿½rening,vi unga">
   <meta http-equiv="X-UA-Compatible" content="IE=8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 
@@ -16,7 +16,7 @@
   <meta property="og:site_name" content="Ung Webb"/>
   <meta property="og:type"   content="website" />
   <meta property="og:url" content="http://ungwebb.com"/>
-  <meta property="og:description" content="Ung webb är en ideell förening med syfte att stödja ungdomar i deras inlärning av webbutveckling samt apputveckling!"/>
+  <meta property="og:description" content="Ung webb ï¿½r en ideell fï¿½rening med syfte att stï¿½dja ungdomar i deras inlï¿½rning av webbutveckling samt apputveckling!"/>
   <meta property="og:image"  content="http://ungwebb.com/images/fb.png" /> 
 
   <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Open+Sans:300italic,400,300,700' rel='stylesheet' type='text/css'>
@@ -27,7 +27,7 @@
   <script src="javascript/semantic.min.js"></script>
   <script src="javascript/main.js"></script>
   <script>
-  $( document ).ready(function() {
+  $(document).ready(function() {
   $('.logo')
   .transition('scale in')
 ;
@@ -39,8 +39,8 @@
   <div class="ui one column grid">
   <div class="column">
 <img class="logo" src="images/logo.png" style="margin-left: 10px;"/>
-<h2>Välkommen!</h2>
-<p>Ung webb är en ideell förening med syfte att stödja ungdomar i deras utveckling inom webbutveckling samt apputveckling!</p>
+<h2>Vï¿½lkommen!</h2>
+<p>Ung webb ï¿½r en ideell fï¿½rening med syfte att stï¿½dja ungdomar i deras utveckling inom webbutveckling samt apputveckling!</p>
 <center style="margin-left: 40px;"><!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style ">
 <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
@@ -56,9 +56,9 @@
   <i class="circular heart icon"></i>
 </div>
 <center>
-	<a href="http://digitalocean.com" target="_BLANK"><img src="images/digitalocean.png" data-position="bottom center" class="company" data-title="Digitalocean" data-content="Digitalocean är en VPS leverantör med säte i USA!"/></a>
-	<a href="http://wiki.nginx.org/Main" target="_BLANK"><img src="images/nginx.png" class="company" data-position="bottom center" class="fade company" data-title="Nginx" data-content="Nginx är en snabb och stabil webbserverprogramvara!" /></a>
-	<a href="http://viunga.se" target="_BLANK"><img src="images/viunga.png" class="company" data-position="bottom center" class="fade company" data-title="Förbundet Vi Unga" data-content='Förbundet Vi Unga är en organsaioner som arbetar med barn och ungdomar!' /></a>
+	<a href="http://digitalocean.com" target="_BLANK"><img src="images/digitalocean.png" data-position="bottom center" class="company" data-title="Digitalocean" data-content="Digitalocean ï¿½r en VPS leverantï¿½r med sï¿½te i USA!"/></a>
+	<a href="http://wiki.nginx.org/Main" target="_BLANK"><img src="images/nginx.png" class="company" data-position="bottom center" class="fade company" data-title="Nginx" data-content="Nginx ï¿½r en snabb och stabil webbserverprogramvara!" /></a>
+	<a href="http://viunga.se" target="_BLANK"><img src="images/viunga.png" class="company" data-position="bottom center" class="fade company" data-title="Fï¿½rbundet Vi Unga" data-content='Fï¿½rbundet Vi Unga ï¿½r en organsaioner som arbetar med barn och ungdomar!' /></a>
 </center>
 
 </div>
