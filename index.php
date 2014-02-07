@@ -56,9 +56,9 @@
   <i class="circular heart icon"></i>
 </div>
 <center>
-	<a href="http://digitalocean.com" target="_BLANK"><img src="images/digitalocean.png" data-position="bottom center" class="company" data-title="Digitalocean" data-content="Digitalocean �r en VPS leverant�r med s�te i USA!"/></a>
-	<a href="http://wiki.nginx.org/Main" target="_BLANK"><img src="images/nginx.png" class="company" data-position="bottom center" class="fade company" data-title="Nginx" data-content="Nginx �r en snabb och stabil webbserverprogramvara!" /></a>
-	<a href="http://viunga.se" target="_BLANK"><img src="images/viunga.png" class="company" data-position="bottom center" class="fade company" data-title="F�rbundet Vi Unga" data-content='F�rbundet Vi Unga �r en organsaioner som arbetar med barn och ungdomar!' /></a>
+	<a href="http://digitalocean.com" target="_BLANK"><img src="images/digitalocean.png" data-position="bottom center" class="company" data-title="Digitalocean" data-content="Digitalocean är en VPS leverantör med säte i USA!"/></a>
+	<a href="http://wiki.nginx.org/Main" target="_BLANK"><img src="images/nginx.png" class="company" data-position="bottom center" class="fade company" data-title="Nginx" data-content="Nginx är en snabb och stabil webbserverprogramvara!" /></a>
+	<a href="http://viunga.se" target="_BLANK"><img src="images/viunga.png" class="company" data-position="bottom center" class="fade company" data-title="F�rbundet Vi Unga" data-content='F�rbundet Vi Unga är en organsaioner som arbetar med barn och ungdomar!' /></a>
 </center>
 
 </div>
