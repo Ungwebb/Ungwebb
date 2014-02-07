@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Ung Webb</title>
- <meta charset="iso-8859-1">
+ <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
   <link href="images/favicon.ico" rel="icon" type="image/x-icon" />
@@ -39,8 +39,8 @@
   <div class="ui one column grid">
   <div class="column">
 <img class="logo" src="images/logo.png" style="margin-left: 10px;"/>
-<h2>V�lkommen!</h2>
-<p>Ung webb �r en ideell f�rening med syfte att st�dja ungdomar i deras utveckling inom webbutveckling samt apputveckling!</p>
+<h2>Välkommen!</h2>
+<p>Ung webb är en ideell förening med syfte att stödja ungdomar i deras utveckling inom webbutveckling samt apputveckling!</p>
 <center style="margin-left: 40px;"><!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style ">
 <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
